@@ -1,3 +1,6 @@
 [submodule "front_end/front_end/Volley"]
 	path = front_end/front_end/Volley
 	url = https://github.com/johnjohndoe/Volley.git
+[submodule "front_end/Volley"]
+	path = front_end/Volley
+	url = https://github.com/johnjohndoe/Volley.git
